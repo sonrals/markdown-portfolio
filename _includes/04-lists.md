@@ -1,5 +1,5 @@
-*pasta
-*sleep
-*no pandemic
-*cat
-  *happy cat
+* pasta
+* sleep
+* no pandemic
+* cat
+  * happy cat
