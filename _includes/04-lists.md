@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+*pasta
+*sleep
+*no pandemic
+*cat
+  *happy cat
